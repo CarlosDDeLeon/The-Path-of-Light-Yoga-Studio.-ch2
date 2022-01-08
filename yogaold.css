@@ -40,6 +40,7 @@ nav ul {
 	margin: 0;
 	padding-right: 2em;
 	font-size: 1.2em;
+	/*height: 50px;*/
 }
 
 nav a {text-decoration: none;} 
@@ -89,6 +90,7 @@ table caption {
 	background-color: #F5F5F5;
 	padding: 2em;
 	color: #40407A
+	/*height: 200px;*/
 }
 #mathero{ /*Settings for yogamat.jpg*/
 	height: 300px;
